@@ -6,7 +6,7 @@ export default function hero(){
         <section className="hero">
             <img src={carosel} alt="" className="hero--photo"/>
             <h1 className="hero--header">Online Experiences</h1>
-            <p className ="hero--text">Join unique interactive activities led by 
+            <p className ="hero--text">Join the unique interactive activities led by 
             one-of-a-kind hosts—all without leaving home.</p>
         </section>
     )
