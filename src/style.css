@@ -53,6 +53,10 @@ section {
     height: 500;
     font-size: 17px;
     margin-left: 170px;
+    flex: 0 0 auto;         /* ADD */
+    display: flex;          /* ADD */
+    flex-direction: column; /* ADD */
+
 }
 .card--image{
     width: 85%;
